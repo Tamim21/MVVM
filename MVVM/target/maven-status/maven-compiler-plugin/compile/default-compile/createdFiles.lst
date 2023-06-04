@@ -1,0 +1,8 @@
+View\ViewProductScreen.class
+Model\ProductItem.class
+View\AddProductScreen.class
+View\AddProductScreen$1.class
+ViewModel\AddProductViewModel.class
+View\ViewProductScreen$1.class
+ViewModel\ViewProductViewModel.class
+Model\main.class
